@@ -1,9 +1,14 @@
+# main links
 main:
-  - title: "Posts"
+  - title: "Audio Tour"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "Destinations!"
     url: /about/
+  - title: "\"Dead\" Zones"
+    url: /tags/
+  - title: "Stamps and Merchandise"
+    url: /posts/
+  - title: "Borders & Entry"
+    url: /posts/
+  - title: "Partners"
+    url: /posts/
