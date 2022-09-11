@@ -3,6 +3,7 @@
    ========================================================================== */
 
 .page__footer {
+  visibility: hidden;
   @include clearfix;
   float: left;
   margin-left: 0;

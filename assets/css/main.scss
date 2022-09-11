@@ -5,9 +5,31 @@ search: false
 
 @charset "utf-8";
 
-$background-color: rgb(187, 187, 187);
-$link-color: blue;
+$background-color: #c0c0c0;
+$link-color: #000080;
+$white-replacement: #c0c0c0;
+$liberty-green: #5e928f;
+
+// windows stuff
+$windows-surface: #c0c0c0;
+$windows-button-highlight: #ffffff;
+$windows-button-face: #dfdfdf;
+$windows-button-shadow: #808080;
+$windows-window-frame: #0a0a0a;
+$windows-dialog-blue: #000080;
+$windows-dialog-blue-light: #1084d0;
+$windows-dialog-gray: #808080;
+$windows-dialog-gray-light: #b5b5b5;
+$windows-link-blue: #0000ff;
+
+
 $paragraph-indent: true;
+// $serif      : 'Changa', sans-serif;
+// $sans-serif : 'Changa', sans-serif;
+// $monospace  : 'Changa', sans-serif;
+$sans-serif :   "Courier New", monospace;
+$serif      :   "Courier New", monospace;
+$monospace  :   "Courier New", monospace;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

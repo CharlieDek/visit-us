@@ -71,10 +71,13 @@ body {
 .page__title {
   margin-top: 0;
   line-height: 1;
+  color: green;
+  text-align: center;
 
   a {
     color: $text-color;
-    text-decoration: none;
+    text-decoration: underline;
+    font-size: 2.2em;
   }
 
   & + .page__meta {
@@ -93,22 +96,33 @@ body {
     border-bottom: 1px solid $border-color;
   }
 
+  h1 {
+    font-size: 1.8em;
+    text-align: center;
+    color: $text-color;
+  }
+
 	h1, h2, h3, h4, h5, h6 {
 		.header-link {
 			position: relative;
 			left: 0.5em;
 			opacity: 0;
-			font-size: 0.8em;
-			-webkit-transition: opacity 0.2s ease-in-out 0.1s;
-			-moz-transition: opacity 0.2s ease-in-out 0.1s;
-			-o-transition: opacity 0.2s ease-in-out 0.1s;
-			transition: opacity 0.2s ease-in-out 0.1s;
+			// font-size: 0.8em;
+			// -webkit-transition: opacity 0.2s ease-in-out 0.1s;
+			// -moz-transition: opacity 0.2s ease-in-out 0.1s;
+			// -o-transition: opacity 0.2s ease-in-out 0.1s;
+			// transition: opacity 0.2s ease-in-out 0.1s;
 		}
 
 		&:hover .header-link {
 			opacity: 1;
 		}
 	}
+
+	h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover {
+    -webkit-text-stroke: 0.35em $windows-link-blue;
+    font-style: italic;    
+  }
 
   p,
   li,
@@ -127,6 +141,12 @@ body {
         margin-top: -($indent-var);
       }
     }
+  }
+
+  p:hover {
+    // background-color: $windows-button-face;
+    -webkit-text-stroke: 0.35em $windows-link-blue;
+    font-style: italic;    
   }
 
   a:not(.btn) {
@@ -199,7 +219,7 @@ body {
     animation-delay: 0.25s;
 
     a {
-      color: #fff;
+      color: $white-replacement;
     }
 
     .wrapper {
@@ -215,8 +235,9 @@ body {
     .page__meta,
     .page__lead,
     .btn {
-      color: #fff;
-      text-shadow: 1px 1px 4px rgba(#000, 0.5);
+      color: $white-replacement;
+      // color: white;
+      // text-shadow: 1px 1px 4px rgba(#000, 0.5);
     }
 
     .page__lead {
@@ -224,18 +245,49 @@ body {
     }
 
     .page__title {
-      font-size: $type-size-2;
-
+      font-size: 7em;
+      // color: $usa-red;
+      // text-shadow: 9px 9px 1px $link-color;
+      text-align: center;
+      background: url('../../assets/images/usa-texture.png') no-repeat center center;
+      background-size: cover;
+      -webkit-text-fill-color: transparent;
+      -webkit-background-clip: text;
+      -moz-background-clip:text;
+      background-clip:text; 
+      font-family: 'Oleo Script', cursive;
+      font-family: 'Bevan';
+      padding:0;
+      margin:0;
+      text-align:center;
+      -webkit-text-stroke: 1px #161764;
       @include breakpoint($small) {
         font-size: $type-size-1;
       }
     }
+    
+    .page__title:hover {
+      color: $link-color;
+      // text-shadow: 9px 9px 1px $usa-red;
+      // -webkit-text-stroke: 0.35em $windows-link-blue;
+      // font-style: italic;
+      background: none;
+      // background: url('../../assets/images/glitch_2.png') no-repeat center center;
+      // background-size: cover;
+      // -webkit-text-fill-color: transparent;
+      // -webkit-text-stroke: 0.00em black;
+      // -webkit-background-clip: text;
+      // -moz-background-clip:text;
+      // background-clip:text;       
+    }
+    
   }
 }
 
 .page__hero-image {
   width: 100%;
   height: auto;
+  border: 10px inset $windows-dialog-gray-light;  
   -ms-interpolation-mode: bicubic;
 }
 
@@ -245,7 +297,7 @@ body {
   right: 0;
   margin: 0 auto;
   padding: 2px 5px;
-  color: #fff;
+  color: $white-replacement;
   font-family: $caption-font-family;
   font-size: $type-size-7;
   background: #000;
@@ -259,7 +311,7 @@ body {
   }
 
   a {
-    color: #fff;
+    color: $white-replacement;
     text-decoration: none;
   }
 }

@@ -13,8 +13,8 @@
   padding-left: 1em;
   padding-right: 1em;
   font-family: $sans-serif;
-  -webkit-animation: $intro-transition;
-  animation: $intro-transition;
+  // -webkit-animation: $intro-transition;
+  // animation: $intro-transition;
   -webkit-animation-delay: 0.3s;
   animation-delay: 0.3s;
 
@@ -89,7 +89,7 @@
 
       &.current,
       &.current.disabled {
-        color: #fff;
+        color: $white-replacement;
         background: $primary-color;
       }
 
@@ -120,7 +120,7 @@
   /* next/previous buttons */
   &--pager {
     display: block;
-    padding: 1em 2em;
+    padding: 0.25em 0.5em;
     float: left;
     width: 50%;
     font-family: $sans-serif;
@@ -357,8 +357,8 @@
       border: 1px solid $light-gray;
       border-radius: $border-radius;
       z-index: 20;
-      -webkit-transition: 0.2s ease-out;
-      transition: 0.2s ease-out;
+      // -webkit-transition: 0.2s ease-out;
+      // transition: 0.2s ease-out;
       cursor: pointer;
 
       &:before,
@@ -371,8 +371,8 @@
         height: 0.125em;
         line-height: 1;
         background-color: $gray;
-        -webkit-transition: 0.2s ease-out;
-        transition: 0.2s ease-out;
+        // -webkit-transition: 0.2s ease-out;
+        // transition: 0.2s ease-out;
       }
 
       &:after {
@@ -382,13 +382,13 @@
       }
 
       &:hover {
-        color: #fff;
+        color: $white-replacement;
         border-color: $gray;
         background-color: mix(white, #000, 20%);
 
         &:before,
         &:after {
-          background-color: #fff;
+          background-color: $white-replacement;
         }
       }
     }
@@ -400,7 +400,7 @@
 
       &:before,
       &:after {
-        background-color: #fff;
+        background-color: $white-replacement;
       }
     }
 
@@ -458,8 +458,8 @@
     opacity: 0%;
     overflow: hidden;
     z-index: 10;
-    -webkit-transition: 0.3s ease-in-out;
-    transition: 0.3s ease-in-out;
+    // -webkit-transition: 0.3s ease-in-out;
+    // transition: 0.3s ease-in-out;
     -webkit-transform: translate(0, 10%);
     -ms-transform: translate(0, 10%);
     transform: translate(0, 10%);
@@ -468,8 +468,8 @@
 
 @include breakpoint(max-width $large - 1px) {
   .nav__list input:checked ~ .nav__items {
-    -webkit-transition: 0.5s ease-in-out;
-    transition: 0.5s ease-in-out;
+    // -webkit-transition: 0.5s ease-in-out;
+    // transition: 0.5s ease-in-out;
     max-height: 9999px; /* exaggerate max-height to accommodate tall lists*/
     overflow: visible;
     opacity: 1;
@@ -513,11 +513,13 @@
   box-shadow: $box-shadow;
 
   .nav__title {
-    color: #fff;
-    font-size: $type-size-6;
-    background: $primary-color;
+    // color: $usa-red;
+    color: $text-color;
+    font-weight: bold;
+    font-size: $type-size-5;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
+    // border: 5px inset $windows-dialog-gray-light;
   }
 
   // Scrollspy marks toc items as .active when they are in focus

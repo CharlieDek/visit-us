@@ -4,7 +4,7 @@
 
 form {
   margin: 0 0 5px 0;
-  padding: 1em;
+  padding: 0.25em;
   background-color: $form-background-color;
 
   fieldset {
@@ -148,7 +148,7 @@ input[type="file"] {
 
 select {
   width: auto;
-  background-color: #fff;
+  background-color: $white-replacement;
 }
 
 select[multiple],

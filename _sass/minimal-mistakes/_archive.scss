@@ -87,8 +87,8 @@
 
 .archive__item-teaser {
   position: relative;
-  border-radius: $border-radius;
   overflow: hidden;
+  border: 5px inset $windows-dialog-gray-light;
 
   img {
     width: 100%;
@@ -101,7 +101,7 @@
   right: 0;
   margin: 0 auto;
   padding: 2px 5px;
-  color: #fff;
+  color: $white-replacement;
   font-family: $caption-font-family;
   font-size: $type-size-8;
   background: #000;
@@ -115,10 +115,15 @@
   }
 
   a {
-    color: #fff;
+    color: $white-replacement;
     text-decoration: none;
   }
 }
+
+.archive__item-teaser:hover {
+  border-width: 9px;
+}
+
 
 /*
    List view
