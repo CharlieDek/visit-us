@@ -56,15 +56,15 @@ dust-gallery:
   - image_path: /assets/images/dust_8_5.png
     alt: "Great Dust Bowl / Montana"
     title: "Great Dust Bowl / Montana"
-  - image_path: /assets/images/dust_arena_8_5.png
-    alt: "Oklahoma City Thunder"
-    title: "Oklahoma City Thunder"
   - image_path: /assets/images/rush_8_5.png
     alt: "Mount Rushmore Perfectly Reconstructed"
     title: "Mount Rushmore Perfectly Reconstructed"
   - image_path: /assets/images/dust_storm_8_5.png
     alt: "Dust Storm hits Lubbock, Texas 07/02/86"
     title: "Dust Storm hits Lubbock, Texas 07/02/86"
+  - image_path: /assets/images/dust_arena_8_5.png
+    alt: "Oklahoma City Thunder"
+    title: "Oklahoma City Thunder"
 toc: true
 toc_label: "Dead Zones Threat Categories"
 toc_icon: "skull-crossbones"  
@@ -86,12 +86,32 @@ toc_icon: "skull-crossbones"
 <i class="fas fa-pray"></i> Sea Cultists, 
 <i class="fas fa-eye"></i> Extreme Private Surveillance, 
 <i class="fas fa-dumpster-fire"></i> Political Unrest, 
+<i class="fas fa-spider"></i> Dangerous Insects, 
 <i class="fas fa-horse"></i> Stray Autonomous Iron Horses, 
 <i class="fas fa-cloud-showers-heavy"></i> Extreme Storms, 
 # Category 1 - Exercise Precautions
 ## Great Dust Plains <i class="fas fa-tint-slash"></i> <i class="fas fa-smog"></i> <i class="fas fa-temperature-high"></i> <i class="fas fa-phone-slash"></i>
-Exercise precautions in The Great Dust Plains due to poor air quality, extreme heat, and lack of infrastructure.
+Exercise precautions in The Great Dust Plains due to water scarcity, poor air quality, extreme heat, and lack of infrastructure.
 {% include gallery id="dust-gallery" %}
+
 # Category 2 - Exercise Utmost Caution
+
+## some place
+gallery
+blah blah
+
 # Category 3 - Do Not Travel
+
+## other place
+
+gallery
+blah blah
+
+<!-- ## Private Western Texas <i class="fas fa-hat-cowboy"></i> <i class="fas fa-horse"></i> <i class="fas fa-spider"></i> <i class="fas fa-bomb"></i> <i class="fas fa-cloud-showers-heavy"></i> -->
+
 # Category 4 - Absolutely Not
+
+## this place
+
+gallery
+blah blah
