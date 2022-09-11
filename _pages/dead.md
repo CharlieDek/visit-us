@@ -4,54 +4,6 @@ layout: single
 clases: wide
 permalink: /dead/
 title: "\"Dead\" Zones"
-# categories:
-  # - Places
-# tags:
-  # - gallery
-  # - dead zones
-# feature_row:
-#   - image_path: /assets/images/nice_gate.png
-#     alt: "customizable"
-#     title: "Bordawefaefawefers and Entry"
-#     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-#     url: "/docs/configuration/"
-#     btn_class: "btn--primary"
-#     btn_label: "Learn more"
-#   - image_path: /assets/images/dead_zones_8_5.png
-#     alt: "DEAD"
-#     title: "\"Dead\" Zones"
-#     excerpt: "Visits not recommended."
-#     url: "/dead/"
-#     btn_class: "btn--primary"
-#     btn_label: "Learn more"
-  # - image_path: /assets/images/merch_8_5.png
-  #   alt: "New low prices!"
-  #   title: "tamps & Merchandise"
-  #   excerpt: "With new low prices and great selection, it's never been a better time to buy merch! Shipping times may be delayed by up to six months depending on interstate embargos."
-  #   url: "/docs/license/"
-  #   btn_class: "btn--primary"
-  #   btn_label: "Buy Now!"
-  # - image_path: /assets/images/merch_8_5.png
-  #   alt: "New low prices!"
-  #   title: "Staps & Merchandise"
-  #   excerpt: "With new low prices and great selection, it's never been a better time to buy merch! Shipping times may be delayed by up to six months depending on interstate embargos."
-  #   url: "/docs/license/"
-  #   btn_class: "btn--primary"
-  #   btn_label: "Buy Now!"
-  # - image_path: /assets/images/merch_8_5.png
-  #   alt: "New low prices!"
-  #   title: "Stamps& Merchandise"
-  #   excerpt: "With new low prices and great selection, it's never been a better time to buy merch! Shipping times may be delayed by up to six months depending on interstate embargos."
-  #   url: "/docs/license/"
-  #   btn_class: "btn--primary"
-  #   btn_label: "Buy Now!"
-  # - image_path: /assets/images/merch_8_5.png
-  #   alt: "New low prices!"
-  #   title: "Stamps & Merchndise"
-  #   excerpt: "With new low prices and great selection, it's never been a better time to buy merch! Shipping times may be delayed by up to six months depending on interstate embargos."
-  #   url: "/docs/license/"
-  #   btn_class: "btn--primary"
-  #   btn_label: "Buy Now!"
 dust-gallery:
   - image_path: /assets/images/dust_8_5.png
     alt: "Great Dust Bowl / Montana"
@@ -65,6 +17,19 @@ dust-gallery:
   - image_path: /assets/images/dust_arena_8_5.png
     alt: "Oklahoma City Thunder"
     title: "Oklahoma City Thunder"
+cult-gallery:
+  - image_path: /assets/images/cult_center_8_5.jpg
+    alt: "A cultist church in the remains of a toppled skyscraper / Miami"
+    title: "A cultist church in the remains of a toppled skyscraper / Miami"
+  - image_path: /assets/images/cultist_platform_8_5.png
+    alt: "A cultist praying to the ocean from a floating platform / Unknown"
+    title: "A cultist praying to the ocean from a floating platform / Unknown"
+  # - image_path: /assets/images/dust_storm_8_5.png
+  #   alt: "Dust Storm hits Lubbock, Texas 07/02/86"
+  #   title: "Dust Storm hits Lubbock, Texas 07/02/86"
+  # - image_path: /assets/images/dust_arena_8_5.png
+  #   alt: "Oklahoma City Thunder"
+  #   title: "Oklahoma City Thunder"    
 toc: true
 toc_label: "Dead Zones Threat Categories"
 toc_icon: "skull-crossbones"  
@@ -101,6 +66,18 @@ gallery
 blah blah
 
 # Category 3 - Do Not Travel
+
+
+## South-Eastern Florida <i class="fas fa-pray"></i> <i class="fas fa-cloud-showers-heavy"></i> <i class="fas fa-water"></i> 
+
+
+Ocean cultists are at large in Eastern Florida. If accosted, the U.S. government will not help you.
+
+The insurgent cultists pray to the one-eyed God-Child of Poseidon and Christ, to the Rising Tide. In their belief system the Rising Tide will sweep over the United States, then climb up the mountains to the heavens and drown God. They are not "fun" or "cool".
+
+The cultists engage in a variety of group sexual activities on the beaches they have claimed as their territory. Although due to rigorous testing and hygiene regimens there is a low risk of S.T.I's when participating in their orgies, the prudent traveller will nonetheless avoid them.
+
+{% include gallery id="cult-gallery" %}
 
 ## other place
 
