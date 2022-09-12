@@ -31,24 +31,26 @@ cult-gallery:
     alt: "The Second Floor of a Miami Tower"
     title: "The Second Floor of a Miami Tower"
 tec-gallery:
-  - image_path: /assets/images/boot_8_5.png
-    alt: "A 'World's Largest Boot' Boot With Tropical Overgrowth"
-    title: "A 'World's Largest Boot' Boot With Tropical Overgrowth"
   - image_path: /assets/images/horse_8_5.png
     alt: "A stray TEC Warhorse on the tropical savannah"
     title: "A stray TEC Warhorse on the tropical savannah"
-  # - image_path: /assets/images/crumbling_miami_8_5.png
-  #   alt: "The state of Miami Beach"
-  #   title: "The state of Miami Beach"
-  # - image_path: /assets/images/2nd_floor_8_5.png
-  #   alt: "The Second Floor of a Miami Tower"
-  #   title: "The Second Floor of a Miami Tower"
+  - image_path: /assets/images/church_8_5.png
+    alt: "A TEC Megachurch"
+    title: "A TEC Megachurch"
+  - image_path: /assets/images/soldier_8_5_cup.png
+    alt: "A General In The TEC Private Military Force"
+    title: "A General In The TEC Private Military Force"
+  - image_path: /assets/images/boot_8_5.png
+    alt: "A 'World's Largest Boot' Boot With Tropical Overgrowth"
+    title: "A 'World's Largest Boot' Boot With Tropical Overgrowth"
 toc: true
 toc_label: "Dead Zones Threat Categories"
 toc_icon: "skull-crossbones"  
 
 
 ---
+
+<!-- {% include video id="" provider="google-drive" %} -->
 
 # Category 1 - Exercise Precautions
 ## Great Dust Plains <i class="fas fa-tint-slash"></i> <i class="fas fa-smog"></i> <i class="fas fa-temperature-high"></i> <i class="fas fa-phone-slash"></i>
