@@ -12,11 +12,11 @@ feature_row:
   - image_path: /assets/images/nice_gate.png
     alt: "customizable"
     title: "Borders and Entry"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    excerpt: "Information on visas, passports, and eligibility."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/crumbling_miami_8_5.png
+  - image_path: /assets/images/horse_8_5.png
     alt: "DEAD"
     title: "\"Dead\" Zones"
     excerpt: "Visits not recommended."

@@ -35,8 +35,8 @@ tec-gallery:
     alt: "A 'World's Largest Boot' Boot With Tropical Overgrowth"
     title: "A 'World's Largest Boot' Boot With Tropical Overgrowth"
   - image_path: /assets/images/horse_8_5.png
-    alt: "A stray warhorse on the tropical savannah"
-    title: "A stray warhorse on the tropical savannah"
+    alt: "A stray TEC Warhorse on the tropical savannah"
+    title: "A stray TEC Warhorse on the tropical savannah"
   # - image_path: /assets/images/crumbling_miami_8_5.png
   #   alt: "The state of Miami Beach"
   #   title: "The state of Miami Beach"
