@@ -37,7 +37,7 @@ tec-gallery:
   - image_path: /assets/images/church_8_5.png
     alt: "A TEC Megachurch"
     title: "A TEC Megachurch"
-  - image_path: /assets/images/soldier_8_5_cup.png
+  - image_path: /assets/images/soldier_8_5_cup.jpg
     alt: "A General In The TEC Private Military Force"
     title: "A General In The TEC Private Military Force"
   - image_path: /assets/images/boot_8_5.png

@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "Audio Tour"
-    url: /posts/
+    url: /audio-tour/
   - title: "Destinations!"
-    url: /about/
+    url: /destinations/
   - title: "\"Dead\" Zones"
     url: /dead/
   - title: "Stamps and Merchandise"
-    url: /posts/
+    url: /merch/
   - title: "Borders & Entry"
-    url: /posts/
+    url: /borders/
