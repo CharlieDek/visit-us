@@ -50,8 +50,6 @@ toc_icon: "skull-crossbones"
 
 ---
 
-<!-- {% include video id="" provider="google-drive" %} -->
-
 # Category 1 - Exercise Precautions
 ## Great Dust Plains <i class="fas fa-tint-slash"></i> <i class="fas fa-smog"></i> <i class="fas fa-temperature-high"></i> <i class="fas fa-phone-slash"></i>
 Exercise precautions in The Great Dust Plains due to water scarcity, poor air quality, extreme heat, and lack of infrastructure.
