@@ -16,7 +16,7 @@ feature_row:
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/dead_zones_8_5.png
+  - image_path: /assets/images/crumbling_miami_8_5.png
     alt: "DEAD"
     title: "\"Dead\" Zones"
     excerpt: "Visits not recommended."

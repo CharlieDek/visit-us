@@ -24,12 +24,25 @@ cult-gallery:
   - image_path: /assets/images/cultist_platform_8_5.png
     alt: "A cultist praying to the ocean from a floating platform / Unknown"
     title: "A cultist praying to the ocean from a floating platform / Unknown"
-  # - image_path: /assets/images/dust_storm_8_5.png
-  #   alt: "Dust Storm hits Lubbock, Texas 07/02/86"
-  #   title: "Dust Storm hits Lubbock, Texas 07/02/86"
-  # - image_path: /assets/images/dust_arena_8_5.png
-  #   alt: "Oklahoma City Thunder"
-  #   title: "Oklahoma City Thunder"    
+  - image_path: /assets/images/crumbling_miami_8_5.png
+    alt: "The state of Miami Beach"
+    title: "The state of Miami Beach"
+  - image_path: /assets/images/2nd_floor_8_5.png
+    alt: "The Second Floor of a Miami Tower"
+    title: "The Second Floor of a Miami Tower"
+tec-gallery:
+  - image_path: /assets/images/boot_8_5.png
+    alt: "A 'World's Largest Boot' Boot With Tropical Overgrowth"
+    title: "A 'World's Largest Boot' Boot With Tropical Overgrowth"
+  - image_path: /assets/images/horse_8_5.png
+    alt: "A stray warhorse on the tropical savannah"
+    title: "A stray warhorse on the tropical savannah"
+  # - image_path: /assets/images/crumbling_miami_8_5.png
+  #   alt: "The state of Miami Beach"
+  #   title: "The state of Miami Beach"
+  # - image_path: /assets/images/2nd_floor_8_5.png
+  #   alt: "The Second Floor of a Miami Tower"
+  #   title: "The Second Floor of a Miami Tower"
 toc: true
 toc_label: "Dead Zones Threat Categories"
 toc_icon: "skull-crossbones"  
@@ -37,23 +50,6 @@ toc_icon: "skull-crossbones"
 
 ---
 
-<!-- ## Key -->
-<i class="fas fa-tint-slash"></i> Water scarcity , 
-<i class="fas fa-bomb"></i> Conflict, 
-<i class="fas fa-water"></i> Flooding , 
-<i class="fas fa-smog"></i> Poor Air Quality, 
-<i class="fas fa-radiation-alt"></i> Radiation , 
-<i class="fas fa-fire"></i> Wildfires , 
-<i class="fas fa-campground"></i> Nomads, 
-<i class="fas fa-skull-crossbones"></i> High Murder Rate, 
-<i class="fas fa-low-vision"></i> Unknown, 
-<i class="fas fa-hat-cowboy"></i> T.E.C. Combatant Territory, 
-<i class="fas fa-pray"></i> Sea Cultists, 
-<i class="fas fa-eye"></i> Extreme Private Surveillance, 
-<i class="fas fa-dumpster-fire"></i> Political Unrest, 
-<i class="fas fa-spider"></i> Dangerous Insects, 
-<i class="fas fa-horse"></i> Stray Autonomous Iron Horses, 
-<i class="fas fa-cloud-showers-heavy"></i> Extreme Storms, 
 # Category 1 - Exercise Precautions
 ## Great Dust Plains <i class="fas fa-tint-slash"></i> <i class="fas fa-smog"></i> <i class="fas fa-temperature-high"></i> <i class="fas fa-phone-slash"></i>
 Exercise precautions in The Great Dust Plains due to water scarcity, poor air quality, extreme heat, and lack of infrastructure.
@@ -79,12 +75,16 @@ The cultists engage in a variety of group sexual activities on the beaches they 
 
 {% include gallery id="cult-gallery" %}
 
+## Private Western Texas <i class="fas fa-hat-cowboy"></i> <i class="fas fa-bomb"></i> <i class="fas fa-horse"></i> <i class="fas fa-spider"></i> <i class="fas fa-cloud-showers-heavy"></i>
+
+{% include gallery id="tec-gallery" %}
+
+
 ## other place
 
 gallery
 blah blah
 
-<!-- ## Private Western Texas <i class="fas fa-hat-cowboy"></i> <i class="fas fa-horse"></i> <i class="fas fa-spider"></i> <i class="fas fa-bomb"></i> <i class="fas fa-cloud-showers-heavy"></i> -->
 
 # Category 4 - Absolutely Not
 
@@ -92,3 +92,22 @@ blah blah
 
 gallery
 blah blah
+
+
+# Key
+<i class="fas fa-tint-slash"></i> Water scarcity , 
+<i class="fas fa-bomb"></i> Conflict, 
+<i class="fas fa-water"></i> Flooding , 
+<i class="fas fa-smog"></i> Poor Air Quality, 
+<i class="fas fa-radiation-alt"></i> Radiation , 
+<i class="fas fa-fire"></i> Wildfires , 
+<i class="fas fa-campground"></i> Nomads, 
+<i class="fas fa-skull-crossbones"></i> High Murder Rate, 
+<i class="fas fa-low-vision"></i> Unknown, 
+<i class="fas fa-hat-cowboy"></i> T.E.C. Combatant Territory, 
+<i class="fas fa-pray"></i> Sea Cultists, 
+<i class="fas fa-eye"></i> Extreme Private Surveillance, 
+<i class="fas fa-dumpster-fire"></i> Political Unrest, 
+<i class="fas fa-spider"></i> Dangerous Insects, 
+<i class="fas fa-horse"></i> Stray Autonomous Iron Horses, 
+<i class="fas fa-cloud-showers-heavy"></i> Extreme Storms, 
