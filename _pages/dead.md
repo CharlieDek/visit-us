@@ -43,6 +43,26 @@ tec-gallery:
   - image_path: /assets/images/boot_8_5.png
     alt: "A 'World's Largest Boot' Boot With Tropical Overgrowth"
     title: "A 'World's Largest Boot' Boot With Tropical Overgrowth"
+disney-gallery:
+  - image_path: /assets/images/mickey_8_5.png
+    alt: "Man in Mickey Mouse costume"
+    title: "Man in Mickey Mouse costume"
+  - image_path: /assets/images/fairy_8_5.png
+    alt: "Tinkerbell (?)"
+    title: "Tinkerbell (?)"
+disney-gallery-2:
+  - image_path: /assets/images/disneyworld_8_5.png
+    alt: "Disney World 03/16/91"
+    title: "Disney World 03/16/91"
+
+# TODO
+# cookie cutter suburbs fully abandoned
+# abandoned-suburbs-gallery:
+  # - image_path: /assets/images/
+    # alt: ""
+    # title: ""
+# Disneyland
+
 toc: true
 toc_label: "Dead Zones Threat Categories"
 toc_icon: "skull-crossbones"  
@@ -57,9 +77,12 @@ Exercise precautions in The Great Dust Plains due to water scarcity, poor air qu
 
 # Category 2 - Exercise Utmost Caution
 
-## some place
-gallery
-blah blah
+## Disney World (Orlando) <i class="fas fa-cloud-showers-heavy"></i>  <i class="fas fa-water"></i> <i class="fas fa-spider"></i> <i class="fas fa-dog"></i>
+
+Exercise utmost caution at Disney World (Orlando) due to extreme storms, flooding, dangerous insects and wild dogs.
+
+{% include gallery id="disney-gallery" %}
+{% include gallery id="disney-gallery-2" %}
 
 # Category 3 - Do Not Travel
 
@@ -111,3 +134,4 @@ blah blah
 <i class="fas fa-spider"></i> Dangerous Insects, 
 <i class="fas fa-horse"></i> Stray Autonomous Iron Horses, 
 <i class="fas fa-cloud-showers-heavy"></i> Extreme Storms, 
+<i class="fas fa-dog"></i> Wild Dogs,
