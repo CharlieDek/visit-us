@@ -54,6 +54,17 @@ disney-gallery-2:
   - image_path: /assets/images/disneyworld_8_5.png
     alt: "Disney World 03/16/91"
     title: "Disney World 03/16/91"
+nyc-gallery:
+  - image_path: /assets/images/subway_8_5.png
+    alt: "NYC MTA Station"
+    title: "NYC MTA Station"
+  - image_path: /assets/images/climber_8_5.png
+    alt: "A climber"
+    title: "A climber"
+nyc-gallery-2:
+  - image_path: /assets/images/nyc_river_8_5.png
+    alt: "NYC River"
+    title: "NYC River"
 
 # TODO
 # cookie cutter suburbs fully abandoned
@@ -75,14 +86,20 @@ toc_icon: "skull-crossbones"
 Exercise precautions in The Great Dust Plains due to water scarcity, poor air quality, extreme heat, and lack of infrastructure.
 {% include gallery id="dust-gallery" %}
 
+## New York City <i class="fas fa-cloud-showers-heavy"></i> <i class="fas fa-water"></i> <i class="fas fa-smog"></i> <i class="fas fa-bomb"></i> 
+New York City has emptied out since the infrastructure damage from the storms of the 60's. Low-lying regions have been swamped and abandoned, while towers in lower Manhattan and midtown remain occupied. Exercise precautions while travelling due to storm damage, flooding, poor air quality and conflict between non-state groups. Stay in higher lying areas and enjoy best-in-class art and culture!
+
+{% include gallery id="nyc-gallery" %}
+{% include gallery id="nyc-gallery-2" %}
+
 # Category 2 - Exercise Utmost Caution
 
 ## Disney World (Orlando) <i class="fas fa-cloud-showers-heavy"></i>  <i class="fas fa-water"></i> <i class="fas fa-spider"></i> <i class="fas fa-dog"></i>
 
 Exercise utmost caution at Disney World (Orlando) due to extreme storms, flooding, dangerous insects and wild dogs.
 
-{% include gallery id="disney-gallery" %}
 {% include gallery id="disney-gallery-2" %}
+{% include gallery id="disney-gallery" %}
 
 # Category 3 - Do Not Travel
 
