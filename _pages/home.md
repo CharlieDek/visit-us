@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "orange"
-  overlay_image: /assets/images/wide_home_splash.png
+  overlay_image: /assets/images/liberty_splash.png
   # Open For Business! [Last updated March 12, 2097 at 4:07pm EST]. Urgent bug fixes needed. Salary needed for engineers. Please assist by calling 822 - 719 - 8338.
 excerpt: >
   # [Last updated March 12, 2097 at 4:07pm EST].

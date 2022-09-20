@@ -43,6 +43,19 @@ tec-gallery:
   - image_path: /assets/images/boot_8_5.png
     alt: "A 'World's Largest Boot' Boot With Tropical Overgrowth"
     title: "A 'World's Largest Boot' Boot With Tropical Overgrowth"
+malibu-gallery:
+  - image_path: /assets/images/malibu_trouble_8_5.jpg
+    alt: "Trouble in Malibu"
+    title: "Trouble in Malibu"
+  - image_path: /assets/images/malibu_surfer_8_5.jpg
+    alt: "Michael Loudermilk of Malibu"
+    title: "Michael Loudermilk of Malibu"
+  - image_path: /assets/images/malibu_drones_8_5.jpg
+    alt: "Malibu Patrol"
+    title: "Malibu Patrol"
+  - image_path: /assets/images/malibu_giraffe_8_5.jpg
+    alt: "A giraffe in Malibu"
+    title: "A giraffe in Malibu"
 disney-gallery:
   - image_path: /assets/images/mickey_8_5.png
     alt: "Man in Mickey Mouse costume"
@@ -128,6 +141,12 @@ blah blah
 
 # Category 4 - Absolutely Not
 
+## Malibu <i class="fas fa-fire"></i> <i class="fas fa-low-vision"></i> 
+
+The state department has little insight into or oversight over Malibu, California. The enclave has a number of automated security systems authorized to kill without human intervention, making it one of the most deadly destinations in the U.S. Plan ahead and reach out to the Malibu tourism bureau if you would like a tour. Wildfires are also a risk.
+
+{% include gallery id="malibu-gallery" %}
+
 ## this place
 
 gallery
@@ -151,4 +170,4 @@ blah blah
 <i class="fas fa-spider"></i> Dangerous Insects, 
 <i class="fas fa-horse"></i> Stray Autonomous Iron Horses, 
 <i class="fas fa-cloud-showers-heavy"></i> Extreme Storms, 
-<i class="fas fa-dog"></i> Wild Dogs,
+<i class="fas fa-dog"></i> Wild Dogs
