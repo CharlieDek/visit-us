@@ -95,7 +95,7 @@ toc_icon: "skull-crossbones"
 ---
 
 # Category 1 - Exercise Precautions
-## Great Dust Plains <i class="fas fa-tint-slash"></i> <i class="fas fa-smog"></i> <i class="fas fa-temperature-high"></i> <i class="fas fa-phone-slash"></i>
+## Great Dust Plains (G.D.P.) <i class="fas fa-tint-slash"></i> <i class="fas fa-smog"></i> <i class="fas fa-temperature-high"></i> <i class="fas fa-phone-slash"></i>
 Exercise precautions in The Great Dust Plains due to water scarcity, poor air quality, extreme heat, and lack of infrastructure.
 {% include gallery id="dust-gallery" %}
 
@@ -117,7 +117,7 @@ Exercise utmost caution at Disney World (Orlando) due to extreme storms, floodin
 # Category 3 - Do Not Travel
 
 
-## South-Eastern Florida <i class="fas fa-pray"></i> <i class="fas fa-cloud-showers-heavy"></i> <i class="fas fa-water"></i> 
+## South-Eastern Florida (S.E.F.) <i class="fas fa-pray"></i> <i class="fas fa-cloud-showers-heavy"></i> <i class="fas fa-water"></i> 
 
 
 Ocean cultists are at large in Eastern Florida. If accosted, the U.S. government will not help you.
@@ -128,18 +128,17 @@ The cultists engage in a variety of group sexual activities on the beaches they 
 
 {% include gallery id="cult-gallery" %}
 
-## Private Western Texas <i class="fas fa-hat-cowboy"></i> <i class="fas fa-bomb"></i> <i class="fas fa-horse"></i> <i class="fas fa-spider"></i> <i class="fas fa-cloud-showers-heavy"></i>
-
-{% include gallery id="tec-gallery" %}
-
-
-## other place
-
-gallery
-blah blah
 
 
 # Category 4 - Absolutely Not
+
+## Private Western Texas <i class="fas fa-hat-cowboy"></i> <i class="fas fa-bomb"></i> <i class="fas fa-horse"></i> <i class="fas fa-spider"></i> <i class="fas fa-cloud-showers-heavy"></i>
+
+Western Texas is owned by the Evangelical Petroleum Conglomerate and enforces its own laws and teachings within the boundaries of the Conglomerate. Evangelical Petroleum soldiers on iron horses roam the fast-changing lands and relish violence. 
+
+Beyond the Private West Texas Petroleum Conglomerate combatants, the region offers additional risks to travellers. Abandoned horses are dangerous if still at high battery (lasts ~30 years). The climate is rapidly shifting to a tropical savavnnah, and the first wave of invasive species from the South include dangerous tropical insects and pests as well as sweeping blankets of ferns. Beware also intense hurricanes from the East and the flooding that they bring.
+
+{% include gallery id="tec-gallery" %}
 
 ## Malibu <i class="fas fa-fire"></i> <i class="fas fa-low-vision"></i> 
 
