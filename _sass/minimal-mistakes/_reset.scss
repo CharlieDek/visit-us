@@ -68,6 +68,100 @@ video {
   *zoom: 1;
 }
 
+audio {
+  color: orange;
+  background-color: orange;
+}
+
+audio::-webkit-media-controls-play-button {
+  background-color: #B1D4E0;
+}
+
+audio::-webkit-media-controls-current-time-display {
+  color: pink;
+}
+
+audio::-webkit-media-controls-panel {
+  color: green;
+  border-radius: 2%;
+}
+
+audio::-webkit-media-controls-panel {
+  color: green;
+  border-radius: 2%;
+  background-color: purple;
+}
+// audio::-webkit-media-controls-mute-button {
+//   color: green;
+//   border-radius: 2%;
+//   background-color: purple;
+// }
+audio::-webkit-media-controls-play-button {
+  color: green;
+  border-radius: 2%;
+  background-color: purple;
+}
+// audio::-webkit-media-controls-timeline-container {
+//   color: green;
+//   border-radius: 2%;
+//   background-color: purple;
+// }
+// audio::-webkit-media-controls-current-time-display {
+//   color: green;
+//   border-radius: 2%;
+//   background-color: purple;
+// }
+// audio::-webkit-media-controls-time-remaining-display {
+//   color: green;
+//   border-radius: 2%;
+//   background-color: purple;
+// }
+// audio::-webkit-media-controls-timeline {
+//   color: green;
+//   border-radius: 2%;
+//   background-color: purple;
+// }
+// audio::-webkit-media-controls-volume-slider-container {
+//   color: green;
+//   border-radius: 2%;
+//   background-color: purple;
+// }
+// audio::-webkit-media-controls-volume-slider {
+//   color: green;
+//   border-radius: 2%;
+//   background-color: purple;
+// }
+// audio::-webkit-media-controls-seek-back-button {
+//   color: green;
+//   border-radius: 2%;
+//   background-color: purple;
+// }
+// audio::-webkit-media-controls-seek-forward-button {
+//   color: green;
+//   border-radius: 2%;
+//   background-color: purple;
+// }
+// audio::-webkit-media-controls-fullscreen-button {
+//   color: green;
+//   border-radius: 2%;
+//   background-color: purple;
+// }
+// audio::-webkit-media-controls-rewind-button {
+//   color: green;
+//   border-radius: 2%;
+//   background-color: purple;
+// }
+// audio::-webkit-media-controls-return-to-realtime-button {
+//   color: green;
+//   border-radius: 2%;
+//   background-color: purple;
+// }
+// audio::-webkit-media-controls-toggle-closed-captions-button {
+//   color: green;
+//   border-radius: 2%;
+//   background-color: purple;
+// }
+
 /* Prevents modern browsers from displaying 'audio' without controls */
 
 audio:not([controls]) {

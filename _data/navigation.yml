@@ -6,7 +6,7 @@ main:
     url: /destinations/
   - title: "\"Dead\" Zones"
     url: /dead/
-  - title: "Stamps and Merchandise"
-    url: /merch/
+  - title: "Stamps"
+    url: /stamps/
   - title: "Borders & Entry"
     url: /borders/

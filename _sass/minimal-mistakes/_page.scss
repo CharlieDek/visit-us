@@ -120,7 +120,7 @@ body {
 	}
 
 	h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover {
-    -webkit-text-stroke: 0.35em $windows-link-blue;
+    -webkit-text-stroke: 3.35em $windows-link-blue;
     font-style: italic;    
   }
 
@@ -145,7 +145,7 @@ body {
 
   p:hover {
     // background-color: $windows-button-face;
-    -webkit-text-stroke: 0.35em $windows-link-blue;
+    -webkit-text-stroke: 3.35em $windows-link-blue;
     font-style: italic;    
   }
 
@@ -247,20 +247,24 @@ body {
     .page__title {
       font-size: 7em;
       // color: $usa-red;
-      // text-shadow: 9px 9px 1px $link-color;
+      // text-shadow: 1px 1px 1px rgba(255, 0, 0, 0.322);
       text-align: center;
-      background: url('../../assets/images/usa-texture.png') no-repeat center center;
+      // background: url('../../assets/images/usa-texture.png') no-repeat center center;
+      background-color: #c0c0c0;
       background-size: cover;
       -webkit-text-fill-color: transparent;
       -webkit-background-clip: text;
       -moz-background-clip:text;
       background-clip:text; 
-      font-family: 'Oleo Script', cursive;
-      font-family: 'Bevan';
+      // font-family: 'Sigmar One';
+      font-family: 'Diplomata SC', cursive;
+
+
+
       padding:0;
       margin:0;
       text-align:center;
-      -webkit-text-stroke: 1px #161764;
+      -webkit-text-stroke: 0.25px #7b928f;
       @include breakpoint($small) {
         font-size: $type-size-1;
       }
@@ -268,10 +272,10 @@ body {
     
     .page__title:hover {
       color: $link-color;
+      background-color: rgb(255, 66, 66);
       // text-shadow: 9px 9px 1px $usa-red;
       // -webkit-text-stroke: 0.35em $windows-link-blue;
       // font-style: italic;
-      background: none;
       // background: url('../../assets/images/glitch_2.png') no-repeat center center;
       // background-size: cover;
       // -webkit-text-fill-color: transparent;

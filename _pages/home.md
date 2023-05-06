@@ -25,30 +25,9 @@ feature_row:
     btn_label: "Learn more"
   - image_path: /assets/images/merch_8_5.png
     alt: "New low prices!"
-    title: "Stamps & Merchandise"
-    excerpt: "With new low prices and great selection, it's never been a better time to buy merch! Shipping times may be delayed by up to six months depending on interstate embargos."
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Buy Now!"
-  - image_path: /assets/images/merch_8_5.png
-    alt: "New low prices!"
-    title: "Staps & Merchandise"
-    excerpt: "With new low prices and great selection, it's never been a better time to buy merch! Shipping times may be delayed by up to six months depending on interstate embargos."
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Buy Now!"
-  - image_path: /assets/images/merch_8_5.png
-    alt: "New low prices!"
-    title: "Stamps& Merchandise"
-    excerpt: "With new low prices and great selection, it's never been a better time to buy merch! Shipping times may be delayed by up to six months depending on interstate embargos."
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Buy Now!"
-  - image_path: /assets/images/merch_8_5.png
-    alt: "New low prices!"
-    title: "Stamps & Merchndise"
-    excerpt: "With new low prices and great selection, it's never been a better time to buy merch! Shipping times may be delayed by up to six months depending on interstate embargos."
-    url: "/docs/license/"
+    title: "Stamps"
+    excerpt: "Browse our U.S.A. legacy stamp collection. Shipping times currently  delayed due to interstate embargos."
+    url: "/stamps/"
     btn_class: "btn--primary"
     btn_label: "Buy Now!"
 ---
