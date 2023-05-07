@@ -11,9 +11,6 @@ feature_row:
   - image_path: /assets/images/stamp_crumble.png
     alt: "Buy this"
     excerpt: "[Out of stock]"
-  - image_path: /assets/images/stamp_hills.png
-    alt: "Buy this"
-    excerpt: "[Out of stock]"
   - image_path: /assets/images/stamp_cowboy.png
     alt: "Buy this"
     excerpt: "[Out of stock]"
@@ -21,6 +18,9 @@ feature_row:
     alt: "Buy this"
     excerpt: "[Out of stock]"
   - image_path: /assets/images/stamp_burning_tree.png
+    alt: "Buy this"
+    excerpt: "[Out of stock]"
+  - image_path: /assets/images/stamp_cam.png
     alt: "Buy this"
     excerpt: "[Out of stock]"
   - image_path: /assets/images/stamp_lib_8.png
@@ -35,9 +35,16 @@ feature_row:
   - image_path: /assets/images/stamp_horse.png
     alt: "Buy this"
     excerpt: "[Out of stock]"
+  - image_path: /assets/images/stamp_hills.png
+    alt: "Buy this"
+    excerpt: "[Out of stock]"
+  - image_path: /assets/images/stamp_cam_2.png
+    alt: "Buy this"
+    excerpt: "[Out of stock]"
   - image_path: /assets/images/stamp_lightning.png
     alt: "Buy this"
     excerpt: "[Out of stock]"
+
 ---
 
 {% include feature_row %}
