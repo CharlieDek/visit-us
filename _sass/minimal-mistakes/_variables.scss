@@ -34,7 +34,7 @@ $header-font-family: $sans-serif !default;
 $caption-font-family: $serif !default;
 
 /* type scale */
-$type-size-1: 5.441em !default;
+$type-size-1: 7.441em !default;
 $type-size-2: 1.953em !default; // ~31.248px
 $type-size-3: 7.563em !default;
 $type-size-4: 1.25em !default; // ~20px
@@ -57,6 +57,7 @@ $h-size-6: 1em !default; // ~16px
 
 $usa-red: rgb(221, 0, 0);
 $gray: #a0a0a0 !default;
+$custom-text-color: white;
 $dark-gray: mix(#000, $gray, 50%) !default;
 $darker-gray: mix(#000, $gray, 60%) !default;
 $light-gray: mix($white-replacement, $gray, 50%) !default;
@@ -65,13 +66,13 @@ $lighter-gray: mix($white-replacement, $gray, 90%) !default;
 $background-color: $white-replacement !default;
 $code-background-color: #fafafa !default;
 $code-background-color-dark: $light-gray !default;
-$text-color: $dark-gray !default;
+$text-color: $custom-text-color !default;
 $muted-text-color: mix($white-replacement, $text-color, 20%) !default;
 $border-color: $lighter-gray !default;
 $form-background-color: $lighter-gray !default;
 $footer-background-color: $lighter-gray !default;
 
-$primary-color: #333333 !default;
+$primary-color: $text-color !default; /* Color of top titles */
 $success-color: #3fa63f !default;
 $warning-color: #d67f05 !default;
 $danger-color: #ee5f5b !default;
@@ -116,7 +117,9 @@ $link-color: mix(#000, $info-color, 20%) !default;
 $link-color-hover: mix(#000, $link-color, 25%) !default;
 $link-color-visited: mix($white-replacement, $link-color, 15%) !default;
 $masthead-link-color: $primary-color !default;
-$masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
+// $masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
+$masthead-link-color-hover: red;
+// $navicon-link-color-hover: mix($white-replacement, $primary-color, 75%) !default;
 $navicon-link-color-hover: mix($white-replacement, $primary-color, 75%) !default;
 
 /* notices */

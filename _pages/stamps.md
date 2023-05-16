@@ -26,9 +26,9 @@ feature_row:
   - image_path: /assets/images/stamp_lib_8.png
     alt: "Buy this"
     excerpt: "[Out of stock]"
-  # - image_path: /assets/images/stamp_lib_1.png
-    # alt: "Buy this"
-    # excerpt: "[Out of stock]"
+  - image_path: /assets/images/stamps_wave.png
+    alt: "Buy this"
+    excerpt: "[Out of stock]"
   - image_path: /assets/images/stamp_dust.png
     alt: "Buy this"
     excerpt: "[Out of stock]"

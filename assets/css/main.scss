@@ -5,12 +5,13 @@ search: false
 
 @charset "utf-8";
 
-$background-color: #c0c0c0;
+$background-color: #002e90;
 $link-color: #0000ff;
-$white-replacement: #c0c0c0;
+$white-replacement: #ffffff;
 $liberty-green: #5e928f;
 
 // windows stuff
+$buttons-color: #ff0000;
 $windows-surface: #c0c0c0;
 $windows-button-highlight: #ffffff;
 $windows-button-face: #dfdfdf;
@@ -24,9 +25,9 @@ $windows-link-blue: #0000ff;
 
 
 $paragraph-indent: true;
-$sans-serif :   "Courier New", monospace;
-$serif      :   "Courier New", monospace;
-$monospace  :   "Courier New", monospace;
+$sans-serif :   "Times New Roman";
+$serif      :   "Times New Roman";
+$monospace  :   "Times New Roman";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

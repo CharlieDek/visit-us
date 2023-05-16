@@ -29,7 +29,7 @@
 
   /* button colors */
   $buttoncolors:
-  (primary, $windows-surface),
+  (primary, $buttons-color),
   (inverse, $white-replacement),
   (light-outline, transparent),
   (success, $success-color),
@@ -99,7 +99,7 @@
 
 .btn:hover {
   border-width: 5px;
-  -webkit-text-stroke: 0px $windows-link-blue;
+  -webkit-text-stroke: 0px $buttons-color;
   font-weight: bold;
   color: $text-color;
 }

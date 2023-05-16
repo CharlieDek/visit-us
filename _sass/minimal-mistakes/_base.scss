@@ -36,11 +36,13 @@ h6 {
 h1 {
   margin-top: 0;
   font-size: $h-size-1;
-  color: #7b928f;
+  color:white; /* front page title color */
+  // text-shadow: 2px 2px 4px red;
 }
 
 h2 {
   font-size: $h-size-2;
+  text-shadow: 3px 3px 4px red;
 }
 
 h3 {
