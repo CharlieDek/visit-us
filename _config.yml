@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title                    : "Visit The USA!"
-subtitle                 : "Official Travel Site (2097)"
+title                    : "(2097) U.S. Travel & Tourism"
+subtitle                 : "Official Travel Information Website of the late 21st Century"
 name                     : &name "Charlie Dektar" # &name is a YAML anchor which can be *referenced later
 description              : &description "Official travel website of the USA, last updated March 2097."
 

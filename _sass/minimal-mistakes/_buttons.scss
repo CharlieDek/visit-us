@@ -99,7 +99,9 @@
 
 .btn:hover {
   border-width: 5px;
-  -webkit-text-stroke: 0px $buttons-color;
+  // -webkit-text-stroke: 0px red;
   font-weight: bold;
   color: $text-color;
+  background-image: url('../../assets/images/giphy-1.gif');
+  background-size: cover;  
 }
