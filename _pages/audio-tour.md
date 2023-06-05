@@ -31,12 +31,6 @@ snail:
   <source src="https://docs.google.com/uc?export=download&id=1Y9EHkGWBpacJPqSGTyxu3_Gfz3udUgrj">
 </audio>
 
-##  Featuring Peter Slotkin's Non-Erotic Descriptions of Nudity
-
-<audio controls>
-  <source src="https://docs.google.com/uc?export=download&id=1eqgk3dlfTs9AeabxZLZtxyYcFuGDkO66"> <!-- Peter Slotkikn -->
-</audio>
-
 
 ## Sponsored by The Perpetual Snail, by Google
 
@@ -54,4 +48,13 @@ snail:
 
 <audio controls>
   <source src="https://docs.google.com/uc?export=download&id=1Y9EHkGWBpacJPqSGTyxu3_Gfz3udUgrj">
+</audio>
+
+
+# FEATURING
+
+####  Peter Slotkin's Non-Erotic Descriptions of Nudity
+
+<audio controls>
+  <source src="https://docs.google.com/uc?export=download&id=1eqgk3dlfTs9AeabxZLZtxyYcFuGDkO66"> <!-- Peter Slotkikn -->
 </audio>

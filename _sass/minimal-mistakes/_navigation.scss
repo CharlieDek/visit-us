@@ -189,7 +189,7 @@
     transition: none;
 
     &:hover {
-      background-image: url('../../assets/images/giphy-1.gif');
+      background-image: url('../../assets/images/slow-flag.gif');
       background-size: cover;
       border: 5px inset $windows-button-face;
     }
@@ -527,7 +527,7 @@
 }
 
 .toc:hover {
-  background: url('../../assets/images/giphy.gif') center center;
+  background: url('../../assets/images/fast-flag.gif') center center;
 }
 
 .toc__menu {
