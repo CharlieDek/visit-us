@@ -14,7 +14,7 @@ snail:
   - image_path: /assets/images/perpet-snail.png
     alt: "It's real"
     title: "It's real"
-  - image_path: /assets/images/perpet-snail.png
+  - image_path: /assets/images/snail-2.png
     alt: "It's real"
     title: "It's real"
 
