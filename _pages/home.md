@@ -7,6 +7,13 @@ header:
 excerpt: >
   # [Last updated March 12, 2097 at 4:07pm EST].
 feature_row:
+  - image_path: /assets/images/liberty_8_5.png
+    alt: "Experience America"
+    title: "Experience America"
+    excerpt: "Immerse yourself on an immersive audio journey across the United States with Maia and Dorian."
+    url: "/audio-tour/"
+    btn_class: "btn--primary"
+    btn_label: "Immerse"
   - image_path: /assets/images/horse_8_5.png
     alt: "DEAD"
     title: "\"Dead\" Zones"
@@ -21,13 +28,6 @@ feature_row:
     url: "/stamps/"
     btn_class: "btn--primary"
     btn_label: "Buy Now!"
-  - image_path: /assets/images/liberty_8_5.png
-    alt: "Experience America"
-    title: "Experience America"
-    excerpt: "Immerse yourself on an immersive audio journey across the United States with Maia and Dorian."
-    url: "/audio-tour/"
-    btn_class: "btn--primary"
-    btn_label: "Immerse"
   - image_path: /assets/images/nice_gate.png
     alt: "customizable"
     title: "Borders and Entry"
