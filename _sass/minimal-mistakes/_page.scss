@@ -254,12 +254,13 @@ body {
       // color: $usa-red;
       // text-shadow: 1px 1px 1px rgba(255, 0, 0, 0.322);
       text-align: center;
-      background-color: #ffffff;
+      background-color: transparent;
+      color: red;
       background-size: cover;
-      -webkit-text-fill-color: transparent;
-      -webkit-background-clip: text;
-      -moz-background-clip:text;
-      background-clip:text; 
+      // -webkit-text-fill-color: transparent;
+      // -webkit-background-clip: text;
+      // -moz-background-clip:text;
+      // background-clip:text; 
       font-family: 'Yellowtail', cursive;
       // font-family: 'Sigmar One';
       // font-family: 'Diplomata SC', cursive;
