@@ -22,7 +22,7 @@ welcome-gallery:
   - image_path: /assets/images/border-flag.png
     alt: "Canada-U.S. Border"
     title: "Canada-U.S. Border"
-  - image_path: /assets/images/border-dalle3.jpeg
+  - image_path: /assets/images/border-newest.jpeg
     alt: "Canada-U.S. Border"
     title: "Canada-U.S. Border"
 

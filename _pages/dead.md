@@ -37,7 +37,6 @@ tec-gallery:
     alt: "A General In The TEC Private Military Force"
     title: "A General In The TEC Private Military Force"
 tec-gallery-2: 
-# TODO try adding world largest boot dalle-3?
   - image_path: /assets/images/horse_8_5.png
     alt: "A stray TEC Warhorse on the tropical savannah"
     title: "A stray TEC Warhorse on the tropical savannah"
