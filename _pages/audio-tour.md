@@ -14,7 +14,7 @@ snail:
   - image_path: /assets/images/perpet-snail.png
     alt: "It's real"
     title: "It's real"
-  - image_path: /assets/images/snail-2.png
+  - image_path: /assets/images/snail.jpeg
     alt: "It's real"
     title: "It's real"
 
@@ -22,28 +22,34 @@ welcome-gallery:
   - image_path: /assets/images/border-flag.png
     alt: "Canada-U.S. Border"
     title: "Canada-U.S. Border"
-  - image_path: /assets/images/wall_4.png
+  - image_path: /assets/images/border-dalle3.jpeg
     alt: "Canada-U.S. Border"
     title: "Canada-U.S. Border"
 
 uber:
-  - image_path: /assets/images/uber-1.png
+  - image_path: /assets/images/uber-3.jpeg
     alt: "Yummy! Wet."
     title: "Yummy! Wet."
   - image_path: /assets/images/uber-2.png
     alt: "Yummy! Wet."
     title: "Yummy! Wet."
+  - image_path: /assets/images/uber-5.jpeg
+    alt: "Yummy! Wet."
+    title: "Yummy! Wet."
+  - image_path: /assets/images/uber-4.jpeg
+    alt: "Yummy! Wet."
+    title: "Yummy! Wet."
 
 peter:
-  - image_path: /assets/images/peter-1.png
+  - image_path: /assets/images/peter-2.jpg
     alt: "Non-erotic."
     title: "Non-erotic."
 
 sting:
-  - image_path: /assets/images/sting-1.png
+  - image_path: /assets/images/stinger.jpeg
     alt: "Dangerous"
     title: "Dangerous"
-  - image_path: /assets/images/sting-2.png
+  - image_path: /assets/images/jellies.jpeg
     alt: "Dangerous"
     title: "Dangerous"
 
@@ -51,7 +57,7 @@ cloudless-gallery:
   - image_path: /assets/images/cloudless-1.png
     alt: "Peace at last"
     title: "Peace at last"
-  - image_path: /assets/images/cloudless-2.png
+  - image_path: /assets/images/cloudless-3.jpeg
     alt: "Peace at last"
     title: "Peace at last"
 
@@ -64,7 +70,6 @@ cloudless-gallery:
   <source src="https://docs.google.com/uc?export=download&id=1uqX4c-OHNil1AdNFIIqUEfmFWhkIEHq3">
 </audio>
 
-
 ## Welcome To The America You've Never Seen Before
 
 {% include gallery id="welcome-gallery" %}
@@ -73,12 +78,12 @@ cloudless-gallery:
   <source src="https://docs.google.com/uc?export=download&id=17miEyQAHNd3j9oKWzAokbkoUfULmN8ae">
 </audio>
 
-## Sponsored by The Perpetual Snail, by Google
+## Brought To You by The Dense, Wet Taste Of UBERPASTE
 
-{% include gallery id="snail" %}
+{% include gallery id="uber" %}
 
 <audio controls>
-  <source src="https://docs.google.com/uc?export=download&id=15s3ehn4rkU9IIF15D5erpw1-vk0CIv72"> <!-- perepetual snail -->
+  <source src="https://docs.google.com/uc?export=download&id=11HTG68YwBaeAOKFeaQEeEXtv7gqn3R-4"> <!-- texas -->
 </audio>
 
 ## Meet Real Americans Struggling To Survive
@@ -89,15 +94,13 @@ cloudless-gallery:
   <source src="https://docs.google.com/uc?export=download&id=1pvrJNZY27yhJAvyI5etZNOm22cyzPS4m">
 </audio>
 
+## Sponsored by The Perpetual Snail, by Google
 
-## Brought To You by The Dense, Wet Taste Of UBERPASTE
-
-{% include gallery id="uber" %}
+{% include gallery id="snail" %}
 
 <audio controls>
-  <source src="https://docs.google.com/uc?export=download&id=11HTG68YwBaeAOKFeaQEeEXtv7gqn3R-4"> <!-- texas -->
+  <source src="https://docs.google.com/uc?export=download&id=15s3ehn4rkU9IIF15D5erpw1-vk0CIv72"> <!-- perepetual snail -->
 </audio>
-
 
 ## Featuring Peter Slotkin's Non-Erotic Descriptions of Nudity
 

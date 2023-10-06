@@ -131,7 +131,7 @@ body {
   p,
   li,
   dl {
-    font-size: 1.3em;
+    font-size: 1.0em;
   }
 
   /* paragraph indents */
@@ -148,9 +148,7 @@ body {
   }
 
   p:hover {
-    // background-color: $windows-button-face;
-    // -webkit-text-stroke: 1.35em red;
-    color: $background-color;
+    color: transparent;
   }
 
   a:not(.btn) {
@@ -254,7 +252,7 @@ body {
       // color: $usa-red;
       // text-shadow: 1px 1px 1px rgba(255, 0, 0, 0.322);
       text-align: center;
-      background-color: transparent;
+      // background-color: transparent;
       color: red;
       background-size: cover;
       // -webkit-text-fill-color: transparent;

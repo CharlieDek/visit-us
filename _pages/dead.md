@@ -26,10 +26,7 @@ cult-gallery:
     alt: "A cultist church in the remains of a toppled skyscraper / Miami"
     title: "A cultist church in the remains of a toppled skyscraper / Miami"
 cult-gallery-2:
-  - image_path: /assets/images/2nd_floor_8_5.png
-    alt: "The Second Floor of a Miami Tower"
-    title: "The Second Floor of a Miami Tower"
-  - image_path: /assets/images/crumbling_miami_8_5.png
+  - image_path: /assets/images/miami-rustbottom.png
     alt: "The state of Miami Beach"
     title: "The state of Miami Beach"
 tec-gallery:
@@ -39,10 +36,8 @@ tec-gallery:
   - image_path: /assets/images/soldier_8_5_cup.jpg
     alt: "A General In The TEC Private Military Force"
     title: "A General In The TEC Private Military Force"
-  # - image_path: /assets/images/boot_8_5.png
-    # alt: "A 'World's Largest Boot' Boot With Tropical Overgrowth"
-    # title: "A 'World's Largest Boot' Boot With Tropical Overgrowth"
-tec-gallery-2:
+tec-gallery-2: 
+# TODO try adding world largest boot dalle-3?
   - image_path: /assets/images/horse_8_5.png
     alt: "A stray TEC Warhorse on the tropical savannah"
     title: "A stray TEC Warhorse on the tropical savannah"
@@ -59,17 +54,13 @@ malibu-gallery:
   - image_path: /assets/images/malibu_giraffe_8_5.jpg
     alt: "A giraffe in Malibu"
     title: "A giraffe in Malibu"
-disney-gallery:
-  - image_path: /assets/images/disneyworld_8_5.png
-    alt: "Disney World 03/16/91"
-    title: "Disney World 03/16/91"
-  - image_path: /assets/images/fairy_8_5.png
-    alt: "Tinkerbell (?)"
-    title: "Tinkerbell (?)"
 disney-gallery-2:
   - image_path: /assets/images/mickey_8_5.png
     alt: "Man in Mickey Mouse costume"
     title: "Man in Mickey Mouse costume"
+  - image_path: /assets/images/fairy_8_5.png
+    alt: "Tinkerbell (?)"
+    title: "Tinkerbell (?)"
 nyc-gallery:
   - image_path: /assets/images/subway_8_5.png
     alt: "NYC MTA Station"

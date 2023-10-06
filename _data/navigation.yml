@@ -2,11 +2,11 @@
 main:
   - title: "Experience America"
     url: /audio-tour/
-  - title: "Destinations!"
-    url: /destinations/
   - title: "\"Dead\" Zones"
     url: /dead/
   - title: "Stamps"
     url: /stamps/
   - title: "Borders & Entry"
     url: /borders/
+  - title: "Destinations!"
+    url: /destinations/
