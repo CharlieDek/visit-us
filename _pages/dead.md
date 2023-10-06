@@ -80,6 +80,19 @@ dc-gallery-2:
   - image_path: /assets/images/cherry_8_5.jpg
     alt: "An engineered cherry blossom"
     title: "An engineered cherry blossom"
+la-gallery:
+  - image_path: /assets/images/refinery.jpg
+    alt: "Refinery"
+    title: "Refinery"
+  - image_path: /assets/images/rocket.jpeg
+    alt: "MRD"
+    title: "MRD"
+  - image_path: /assets/images/kidz-bop.jpeg
+    alt: "MRD"
+    title: "MRD"
+  - image_path: /assets/images/scuba.jpeg
+    alt: "Refinery"
+    title: "Refinery"
 
 # TODO
 # cookie cutter suburbs fully abandoned
@@ -126,7 +139,6 @@ Exercise utmost caution at Disney World (Orlando) due to extreme storms, floodin
 
 ## South-Eastern Florida (S.E.F.) <i class="fas fa-pray"></i> <i class="fas fa-cloud-showers-heavy"></i> <i class="fas fa-water"></i> 
 
-
 Ocean cultists are at large in Eastern Florida. If accosted, the U.S. government will not help you.
 
 The insurgent cultists pray to the one-eyed God-Child of Poseidon and Christ, to the Rising Tide. In their belief system the Rising Tide will sweep over the United States, then climb up the mountains to the heavens and drown God. They are not "fun" or "cool".
@@ -135,6 +147,15 @@ The cultists engage in a variety of group sexual activities on the beaches they 
 
 {% include gallery id="cult-gallery" %}
 {% include gallery id="cult-gallery-2" %}
+
+## The Mississippi River Delta <i class="fas fa-cloud-showers-heavy"></i> <i class="fas fa-water"></i> 
+
+The Mississippi River Delta (MRD) is largely inundated and abandoned. While conflict is low due to emigration, the land is fast-shifting and treacherous.
+
+If you do swing by the MRD with the family, make sure to scuba dive New Orleans!
+
+{% include gallery id="la-gallery" %}
+<!-- {% include gallery id="la-gallery-2" %} -->
 
 
 
