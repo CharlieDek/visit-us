@@ -7,7 +7,7 @@ header:
 excerpt: >
   # [Last updated March 12, 2097 at 4:07pm EST].
 feature_row:
-  - image_path: /assets/images/liberty_8_5.png
+  - image_path: /assets/images/statue_dalle3.png
     alt: "Experience America"
     title: "Experience America"
     excerpt: "Immerse yourself on an immersive audio journey across the United States with Maia and Dorian."
