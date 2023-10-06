@@ -48,10 +48,10 @@ malibu-gallery:
   - image_path: /assets/images/malibu_surfer_8_5.jpg
     alt: "Michael Loudermilk of Malibu"
     title: "Michael Loudermilk of Malibu"
-  - image_path: /assets/images/malibu_drones_8_5.jpg
+  - image_path: /assets/images/malibu_bot.png
     alt: "Malibu Patrol"
     title: "Malibu Patrol"
-  - image_path: /assets/images/malibu_giraffe_8_5.jpg
+  - image_path: /assets/images/giraffe.png
     alt: "A giraffe in Malibu"
     title: "A giraffe in Malibu"
 disney-gallery-2:
