@@ -152,7 +152,7 @@ The cultists engage in a variety of group sexual activities on the beaches they 
 
 The Mississippi River Delta (MRD) is largely inundated and abandoned. While conflict is low due to emigration, the land is fast-shifting and treacherous.
 
-If you do swing by the MRD with the family, make sure to scuba dive New Orleans!
+If you do swing by the MRD with the family, make sure to scuba dive New Orleans and swing by the old East Texas rocket fields.
 
 {% include gallery id="la-gallery" %}
 <!-- {% include gallery id="la-gallery-2" %} -->
